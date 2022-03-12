@@ -1,5 +1,7 @@
 👋 Hi, I’m Elroei Seadia!
 
-Im currently studying toward my BSC in software engineering in Ort Braude college!
+🌱 I’m currently learning Software Engineering (B.Sc.) ORT Braude College
 
 Fluent in C, Java, Assembly, JavaFX.
+
+📫 How to reach me: elroei57@gmail.com
