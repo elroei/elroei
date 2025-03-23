@@ -1,7 +1,7 @@
-👋 Hi, I’m Elroei Seadia!
+👋 Hey, I’m Elroei Seadia!  
 
- I’m currently learning Software Engineering (B.Sc.) Braude College
+I’m a Software Engineer (B.Sc.) and a graduate of Braude College.  
 
-Fluent in C, Python, Assembly, Java, JavaFX, Haskell.
+Fluent in C, Python, Assembly, Java, JavaFX, and Haskell.  
 
-📫 How to reach me: elroei57@gmail.com
+📫 You can reach me at: elroei57@gmail.com  
